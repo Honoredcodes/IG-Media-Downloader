@@ -22,6 +22,20 @@ This tool requires Python 3.7+ and `instaloader`. The installation scripts will 
 install.bat
 ```
 
+After installation of all required dependencies you can run the program.
+
+1. Run:
+
+```bash
+python3 program.py
+```
+
+or
+
+```bash
+python program.py
+```
+
 ### 🖥️ MacOS / Linux
 
 1. Open **Terminal**.
@@ -32,3 +46,21 @@ install.bat
 chmod +x install.sh
 install.sh
 ```
+
+After installation of all required dependencies you can run the program.
+
+1. Run:
+
+```bash
+python3 program.py
+```
+
+or
+
+```bash
+python program.py
+```
+
+<a href = "https://buymeacoffee.com/honoredcodes">
+<p><img height ="40px" width = "auto" src = "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/></p>
+</a>
